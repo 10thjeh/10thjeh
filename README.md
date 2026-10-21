@@ -22,3 +22,5 @@ Currently shipping member portals, breaking C in new and creative ways, and auto
 
 #### Find me
 - GitHub: [@10thjeh](https://github.com/10thjeh)
+
+Summarized by deepseek
